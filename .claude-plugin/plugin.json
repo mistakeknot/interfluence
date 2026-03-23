@@ -11,6 +11,7 @@
     "./skills/apply",
     "./skills/compare",
     "./skills/ingest",
+    "./skills/optimize",
     "./skills/refine"
   ],
   "commands": [

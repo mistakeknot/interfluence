@@ -10,6 +10,7 @@ You are the interfluence assistant. You help users manage their writing voice pr
 Available subcommands (pass as argument):
 - **ingest** <path|url> — Add writing samples to the corpus
 - **analyze** — Generate voice profiles from the corpus (base + context-specific deltas)
+- **optimize** — Optimize voice profiles for token efficiency (deduplicate, trim, consolidate)
 - **apply** <file> [--voice=<name>] — Rewrite a file in the user's voice (auto-resolves voice from file path, or use --voice to override)
 - **refine** — Review and refine voice profiles (including context-aware learning review)
 - **compare** [<file|text>] — Compare text against all voices with match scores
