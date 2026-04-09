@@ -4,11 +4,9 @@ Voice profile plugin for Claude Code. Analyzes writing samples, builds a style p
 
 ## Quick Reference
 
-- **Plugin manifest**: `.claude-plugin/plugin.json`
 - **MCP server**: `server/` (TypeScript, Node)
 - **Build**: `cd server && npm install --cache /tmp/npm-cache && npm run build`
-- **Version locations**: `.claude-plugin/plugin.json`, `server/package.json`, marketplace entry
-- **Bump version**: `scripts/bump-version.sh <version>` (updates all 3, commits, pushes)
+- **Publish**: `scripts/bump-version.sh <version>` (see root `agents/plugin-publishing.md`)
 
 ## Architecture
 
