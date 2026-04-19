@@ -8,3 +8,5 @@ server/dist/*
 
 .beads/
 __pycache__/
+server/dist/
+.clavain/
