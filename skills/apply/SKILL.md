@@ -1,5 +1,5 @@
 ---
-description: Rewrite a file or text in the user's voice using the voice profile. Use when the user says "apply my voice", "rewrite in my style", "make this sound like me", "write this in my voice", "does this sound like me", or "/interfluence apply".
+description: Rewrite a file or text in the user's voice using the voice profile. Use when the user says "apply my voice", "rewrite in my style", "make this sound like me", or "/interfluence apply".
 allowed-tools: mcp_interfluence_profile_get, mcp_interfluence_profile_list, mcp_interfluence_config_get, Read, Write, Edit
 ---
 
