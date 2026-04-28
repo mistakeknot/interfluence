@@ -1,5 +1,5 @@
 ---
-description: Compare AI-generated text against the user's voice profile. Use when the user says "compare", "does this sound like me", "A/B test my voice", or "/interfluence compare".
+description: Compare AI-generated text against the user's voice profile. Use on "compare", "does this sound like me", or /interfluence compare.
 allowed-tools: mcp_interfluence_profile_get, mcp_interfluence_profile_list, mcp_interfluence_config_get, Read
 ---
 

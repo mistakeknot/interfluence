@@ -1,6 +1,6 @@
 ---
 name: optimize
-description: "Optimize a voice profile for token efficiency — deduplicate rules, cut meta-commentary, convert atmosphere to directives, trim examples. Target 20%+ reduction."
+description: "Optimize voice profile for token efficiency — dedup rules, cut meta, convert atmosphere to directives. Target 20%+ reduction."
 ---
 
 # Voice Profile Optimization

@@ -1,5 +1,5 @@
 ---
-description: Review and refine the voice profile interactively. Use when the user says "refine my voice profile", "update voice profile", "that's not how I'd say it", "adjust my style", or "/interfluence refine".
+description: Refine voice profile interactively. Use on "refine voice", "adjust my style", "that's not how I'd say it", or /interfluence refine.
 allowed-tools: mcp_interfluence_profile_get, mcp_interfluence_profile_save, mcp_interfluence_profile_list, mcp_interfluence_config_get, mcp_interfluence_learnings_get_raw, mcp_interfluence_learnings_clear_raw, Read, Edit
 ---
 
