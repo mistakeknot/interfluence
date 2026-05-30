@@ -1,5 +1,8 @@
 # interfluence
 
+> **Deprecated. Replaced by [intervoice](https://github.com/mistakeknot/intervoice).**
+> interfluence routed between voices by per-project file glob; intervoice reads one global multi-register profile (the shape voice profiles are actually kept in) and selects a register by name or inference. intervoice ports the useful parts (apply, compare, analyze, optimize, the voice-analyzer agent) and drops the MCP server, the corpus model, and the edit-logging hook. Do not run both installed at once; this plugin's PostToolUse hook is disabled to prevent double-logging during migration. Existing `.interfluence/` profile data is preserved, not deleted.
+
 A Claude Code plugin that learns how you write and makes Claude sound like you.
 
 ## What this Is
