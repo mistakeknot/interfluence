@@ -1,7 +1,7 @@
 {
   "name": "interfluence",
   "version": "0.2.12",
-  "description": "Analyze your writing style and adapt Claude's output to sound like you. Ingest writing samples, build a voice profile, and apply it to any human-facing documentation or copy.",
+  "description": "[DEPRECATED — use intervoice] Analyze your writing style and adapt Claude's output to sound like you. Replaced by intervoice, which reads one global multi-register profile instead of per-project glob-routed files.",
   "author": {
     "name": "mistakeknot",
     "email": "mistakeknot@vibeguider.org"

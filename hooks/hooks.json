@@ -1,5 +1,6 @@
 {
-  "hooks": {
+  "_deprecated": "interfluence is deprecated in favor of intervoice. The PostToolUse:Edit learn-from-edits hook is intentionally disabled to prevent double-logging when both plugins are installed during migration. The original registration is preserved below for reference.",
+  "_original_hooks": {
     "PostToolUse": [
       {
         "matcher": "Edit",
@@ -12,5 +13,6 @@
         ]
       }
     ]
-  }
+  },
+  "hooks": {}
 }
