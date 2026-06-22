@@ -1,0 +1,9 @@
+{
+  "name": "interfluence",
+  "companions": {
+    "recommended": [
+      "intercheck"
+    ],
+    "optional": []
+  }
+}
