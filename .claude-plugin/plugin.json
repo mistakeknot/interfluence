@@ -1,7 +1,7 @@
 {
   "name": "interfluence",
-  "version": "0.2.12",
-  "description": "[DEPRECATED — use intervoice] Analyze your writing style and adapt Claude's output to sound like you. Replaced by intervoice, which reads one global multi-register profile instead of per-project glob-routed files.",
+  "version": "0.2.13",
+  "description": "[DEPRECATED — use intervox] Analyze your writing style and adapt Claude's output to sound like you. Replaced by intervox (via the interim intervoice), which adds a measured stylometric fingerprint, LLMism linter, and verified closed-loop apply on top of the global multi-register profile.",
   "author": {
     "name": "mistakeknot",
     "email": "mistakeknot@vibeguider.org"
