@@ -3,7 +3,7 @@
 > **Deprecated. Replaced by [intervox](https://github.com/mistakeknot/intervox)** (which also supersedes the interim [intervoice](https://github.com/mistakeknot/intervoice)).
 > interfluence routed between voices by per-project file glob and graded rewrites by vibes. intervox keeps the prose-profile idea, moves to one global multi-register profile, and adds the half interfluence never had: a measured stylometric fingerprint, an LLMism linter, exemplar retrieval, and a verified closed-loop apply. Migrate with `/intervox migrate`. This plugin's PostToolUse hook remains disabled; existing `.interfluence/` data is preserved, never deleted.
 
-A Claude Code plugin that learns how you write and makes Claude sound like you.
+A plugin for Claude Code, Codex, and Kimi Code that learns how you write and makes your agent sound like you.
 
 ## What this Is
 
