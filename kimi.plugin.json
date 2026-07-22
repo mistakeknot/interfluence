@@ -1,0 +1,20 @@
+{
+  "name": "interfluence",
+  "version": "0.2.13",
+  "description": "[DEPRECATED — use intervox] Analyze your writing style and adapt Claude's output to sound like you. Replaced by intervox (via the interim intervoice), which adds a measured stylometric fingerprint, LLMism linter, and verified closed-loop apply on top of the global multi-register profile.",
+  "author": "mistakeknot",
+  "interface": {
+    "displayName": "interfluence",
+    "shortDescription": "[DEPRECATED — use intervox] Analyze your writing style and adapt Claude's output to sound like you. Replaced by inter..."
+  },
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "mcpServers": {
+    "interfluence": {
+      "command": "node",
+      "args": [
+        "${KIMI_PLUGIN_ROOT}/server/dist/bundle.js"
+      ]
+    }
+  }
+}
