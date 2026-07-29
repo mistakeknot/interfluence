@@ -10,3 +10,6 @@ server/dist/*
 __pycache__/
 server/dist/
 .clavain/
+
+# Machine-local interspect telemetry (SQLite); git-autosync does 'git add -A'
+.clavain/interspect/
