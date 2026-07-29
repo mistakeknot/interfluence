@@ -11,3 +11,5 @@ __pycache__/
 server/dist/
 .clavain/
 .clavain/**/*.db
+.clavain/**/*.db-shm
+.clavain/**/*.db-wal
