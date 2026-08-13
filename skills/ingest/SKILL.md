@@ -1,4 +1,5 @@
 ---
+name: voice-ingest
 description: Add writing samples to the interfluence corpus. Use on "ingest", "add writing sample", "add my blog post", or a URL/path to writing.
 allowed-tools: mcp_interfluence_corpus_add, mcp_interfluence_corpus_add_text, mcp_interfluence_corpus_list, Read, WebFetch, Glob
 ---
